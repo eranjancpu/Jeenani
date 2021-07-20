@@ -7,7 +7,7 @@ you can run out of the exe file with no problem but you antivirus or windows def
 
 <h4>important:</h4>
 
-<h2>if you are running this out of a python file(.py) first you have to install python with pip, then got to you defult CLI(command line interface) them if you are in windows you should type this command <h4> pip install pyttsx3 </h4> if you are in a mac then type: <h4> pip3 install pyttsx3 </h4> them you can run the python file if you can't you can ake a issue in the issue tab.</h2>
+<h2>if you are running this out of a python file(.py) first you have to install python with pip, then got to you defult CLI(command line interface) them if you are in windows you should type this command</h2> <h4> pip install pyttsx3 </h4><h2> if you are in a mac then type: </h2><h4> pip3 install pyttsx3 </h4><h2> them you can run the python file if you can't you can ake a issue in the issue tab.</h2>
 
 
 <h3>commands to use:</h3>
