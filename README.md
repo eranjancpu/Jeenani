@@ -1,5 +1,5 @@
 # Jeenani
-Jeenani is a open source virtual assistant
+Jeenani is an open source virtual assistant
 
 <h3>how run Jeenani:</h3>
 
